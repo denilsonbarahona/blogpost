@@ -3,6 +3,11 @@
     font-size: 16px;
 }
 
+body{
+    color: blueviolet;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+} 
 
 .cabecera {
     font-family: monospace;
@@ -12,4 +17,8 @@
     font-weight: bolder;
     background: linear-gradient(#e66465, #9198e5);
     
+}
+
+p {
+    color: black;
 }

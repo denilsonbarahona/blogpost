@@ -1,0 +1,23 @@
+:root {
+    font-size: 22px; 
+}
+
+body{
+    color: blueviolet;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+} 
+
+.cabecera {
+    font-family: monospace;
+    font-size: 3rem;
+    color: wheat !important;
+    border: 2px solid red;
+    font-weight: bolder;
+    background: linear-gradient(#e66465, #9198e5);
+    
+}
+
+p {
+    color: gray;
+}

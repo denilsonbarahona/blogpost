@@ -35,3 +35,8 @@ p {
     block-size: 100%;
     vertical-align: middle;
 }
+
+footer {
+    padding: 10px;
+    background-color: #e66465;
+}

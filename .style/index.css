@@ -6,6 +6,7 @@ body{
     color: blueviolet;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+    background-color: azure;
 } 
 
 .cabecera {
@@ -20,4 +21,17 @@ body{
 
 p {
     color: gray;
+}
+
+.figure {
+    inline-size: 100px;
+    aspect-ratio: 1/1;
+    margin: 0;
+    display: inline-block;
+}
+
+.figure img {
+    inline-size: 100%;
+    block-size: 100%;
+    vertical-align: middle;
 }

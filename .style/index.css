@@ -21,3 +21,8 @@ body{
 p {
     color: gray;
 }
+
+footer {
+    padding: 10px;
+    background-color: #e66465;
+}

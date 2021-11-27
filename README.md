@@ -1,3 +1,6 @@
+# Hyperblog.
+
+
 este readme lo aprendí a hacer en el curso de git y github de platzi, puedes ver el curso haciendo click [aqui](http://platzi.com "aqui")
 
 por los momentos lo que he aprendido es lo ***SIGUIENTE***: 
